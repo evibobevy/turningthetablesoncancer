@@ -1,0 +1,14 @@
+// Grid settings
+$grid-width: 900px;
+$grid-columns: 10;
+$grid-gutter: 20px;
+$grid-generate: false;
+$grid-column-prefix: 'column-';
+$grid-row-prefix: 'row';
+$grid-push-prefix: 'push-';
+
+// Responsive sizes
+$phone: '(max-width: 480px)';
+$tablet-portrait: '(max-width: 767px)';
+$tablet-landscape: '(min-width: 768px) and (max-width: 1023px)';
+$desktop: '(min-width: 1024px)';
